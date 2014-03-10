@@ -101,7 +101,7 @@ class CSS(object):
                     values.append("0")
                 else:
                     values.append(str(int(round(i))) + "px")
-            elif type(i) is Color:
+            elif type(i) is Color.Color:
                 values.append(i.rgb())
             elif type(i) is str:
                 values.append(i)

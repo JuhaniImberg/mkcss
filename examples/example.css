@@ -22,146 +22,137 @@ div.asd:after {
     content: 'Mui maaila!';
 }
 .container-16 {
+    background-color: #aaa;
+}
+.container-16 div {
+    text-align: center;
+    background-color: #ccc;
+}
+.container-16 {
     width: 960px;
     margin: 0 auto;
 }
-.grid-1 {
-    padding: 0;
+.container-16 .grid-1 {
+    display: inline-block;
     width: 44px;
     margin: 0 8px;
-    display: inline-block;
 }
-.grid-2 {
-    padding: 0;
+.container-16 .grid-2 {
+    display: inline-block;
     width: 104px;
     margin: 0 8px;
-    display: inline-block;
 }
-.grid-3 {
-    padding: 0;
+.container-16 .grid-3 {
+    display: inline-block;
     width: 164px;
     margin: 0 8px;
-    display: inline-block;
 }
-.grid-4 {
-    padding: 0;
+.container-16 .grid-4 {
+    display: inline-block;
     width: 224px;
     margin: 0 8px;
-    display: inline-block;
 }
-.grid-5 {
-    padding: 0;
+.container-16 .grid-5 {
+    display: inline-block;
     width: 284px;
     margin: 0 8px;
-    display: inline-block;
 }
-.grid-6 {
-    padding: 0;
+.container-16 .grid-6 {
+    display: inline-block;
     width: 344px;
     margin: 0 8px;
-    display: inline-block;
 }
-.grid-7 {
-    padding: 0;
+.container-16 .grid-7 {
+    display: inline-block;
     width: 404px;
     margin: 0 8px;
-    display: inline-block;
 }
-.grid-8 {
-    padding: 0;
+.container-16 .grid-8 {
+    display: inline-block;
     width: 464px;
     margin: 0 8px;
-    display: inline-block;
 }
-.grid-9 {
-    padding: 0;
+.container-16 .grid-9 {
+    display: inline-block;
     width: 524px;
     margin: 0 8px;
-    display: inline-block;
 }
-.grid-10 {
-    padding: 0;
+.container-16 .grid-10 {
+    display: inline-block;
     width: 584px;
     margin: 0 8px;
-    display: inline-block;
 }
-.grid-11 {
-    padding: 0;
+.container-16 .grid-11 {
+    display: inline-block;
     width: 644px;
     margin: 0 8px;
-    display: inline-block;
 }
-.grid-12 {
-    padding: 0;
+.container-16 .grid-12 {
+    display: inline-block;
     width: 704px;
     margin: 0 8px;
-    display: inline-block;
 }
-.grid-13 {
-    padding: 0;
+.container-16 .grid-13 {
+    display: inline-block;
     width: 764px;
     margin: 0 8px;
-    display: inline-block;
 }
-.grid-14 {
-    padding: 0;
+.container-16 .grid-14 {
+    display: inline-block;
     width: 824px;
     margin: 0 8px;
-    display: inline-block;
 }
-.grid-15 {
-    padding: 0;
+.container-16 .grid-15 {
+    display: inline-block;
     width: 884px;
     margin: 0 8px;
-    display: inline-block;
 }
-.grid-16 {
-    padding: 0;
+.container-16 .grid-16 {
+    display: inline-block;
     width: 944px;
     margin: 0 8px;
-    display: inline-block;
 }
 div.asd-0 {
-    background-color: #000000;
+    background-color: rgb(0,0,0);
     color: white;
 }
 div.asd-1 {
-    background-color: #1A1A1A;
+    background-color: rgb(25,25,25);
     color: white;
 }
 div.asd-2 {
-    background-color: #333333;
+    background-color: rgb(51,51,51);
     color: white;
 }
 div.asd-3 {
-    background-color: #4C4C4C;
+    background-color: rgb(76,76,76);
     color: white;
 }
 div.asd-4 {
-    background-color: #666666;
+    background-color: rgb(102,102,102);
     color: white;
 }
 div.asd-5 {
-    background-color: #808080;
+    background-color: rgb(127,127,127);
     color: white;
 }
 div.asd-6 {
-    background-color: #999999;
-    color: black;
+    background-color: rgb(153,153,153);
+    color: white;
 }
 div.asd-7 {
-    background-color: #B2B2B2;
-    color: black;
+    background-color: rgb(178,178,178);
+    color: white;
 }
 div.asd-8 {
-    background-color: #CCCCCC;
+    background-color: rgb(204,204,204);
     color: black;
 }
 div.asd-9 {
-    background-color: #E6E6E6;
+    background-color: rgb(229,229,229);
     color: black;
 }
 div.asd-10 {
-    background-color: #FFFFFF;
+    background-color: rgb(255,255,255);
     color: black;
 }

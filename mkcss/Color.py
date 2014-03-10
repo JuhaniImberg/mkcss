@@ -139,7 +139,7 @@ class Color(object):
 
     def light(self):
         """Is this color light?"""
-        return self.hls[1] > 0.5
+        return self.hls[1] > 0.75
 
     def dark(self):
         """Is this color dark?"""
